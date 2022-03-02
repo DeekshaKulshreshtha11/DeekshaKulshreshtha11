@@ -1,4 +1,5 @@
-<!--intRO name  -->
+<a href="#"><img width="100%" height="auto" src="updated_header.gif" height="175px"/></a>
+
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/deeksha-kulshreshtha-2b56a4223/" target="_blank"> DEEKSHA KULSHRESHTHA </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <img width="40%" align="right"  src="coded.gif" >
