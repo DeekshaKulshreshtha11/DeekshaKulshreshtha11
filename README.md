@@ -2,8 +2,6 @@
 
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/deeksha-kulshreshtha-2b56a4223/" target="_blank"> DEEKSHA KULSHRESHTHA </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<img width="40%" align="right"  src="coded.gif" >
-
 A Small Introduction of  Myself, I'm a curious person🙂. Eager to learn through <b>deep insights🔍 and implementations👩‍💻.
 I used to read books📚</b>. Because it enhances visualization ability🧠 and concentration😌. 
 
